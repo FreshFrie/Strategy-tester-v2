@@ -1,0 +1,69 @@
+
+DR1_APDA_ORIGIN_CORE
+Type: [Research/Pillar]
+ Date: 2025-05-18
+ Status: Proven
+ Parent: APDA_Root
+ Children: All historical/backbone nodes
+Definition
+Catalog and reconstruct IPDA/APDA: institutional price delivery core theory, historical origin, primary source mapping.
+
+
+Atomic Workflow
+Source trace: FX microstructure, electronic price engine rise (1990s–2000s), EBS/Reuters Matching, dealer algo pricing.
+
+
+Identify key contributor: Michael J. Huddleston (ICT); “IPDA” as public teaching tool, not institutional code.
+
+
+Institutional reality: No singular “IPDA,” but algorithmic liquidity-seeking, stop hunt, and scheduled price logic are empirically validated across banks/venues.
+
+
+Document all unverified, anecdotal, and proprietary claims; flag unverifiable gaps for future DR.
+
+
+Create master timeline: electronic dealer rise → public smart money teaching → SMC dissemination.
+
+
+Validation
+True if all facts/sources are empirically referenced, falsifiable, and major edge gaps flagged.
+
+
+False if any claims (origin, code, structure) are left untagged or if timeline is missing.
+
+
+Meta-Links
+Parent: APDA_Root
+
+
+Children: [DR2_APDA_VERIFICATION], [DR3_APDA_EMERGENT], [DR4_CROSS_ASSET], etc.
+
+
+QA: Timeline, contributor registry, gap log, source cross-ref, empirical vs. unverified tag.
+
+
+Examples
+IPDA as reverse-engineered framework (ICT, 2012–2025): mapped, not disclosed by banks.
+
+
+EBS, Reuters, Citi, DB: “proprietary pricing engines,” but no public unified code.
+
+
+Public edge: stop hunt, liquidity pool, macro time, engineered price logic observed, but as aggregate, not as a “single algorithm.”
+
+
+Tags
+[ORIGIN], [HISTORICAL], [EDGE], [VERIFIED], [UNVERIFIED], [TIMELINE], [EMPIRICAL], [ANOMALOUS_CLAIM]
+Future
+Use as root node for all continuity, cross-check, and edge authentication.
+
+
+Flag all unverifiable/ambiguous claims for further micro-DR or advanced validation.
+
+
+
+// End DR1 AI atomic breakdown //
+
+
+
+

@@ -1,0 +1,48 @@
+[APDA_DR8_HIDDEN_CLUSTER]
+—[FRAMEWORK:APDA]
+—[TIMESTAMP:2026-XX-XX]
+—[NODE_TYPE:Modular Hidden/Synthetic Event Array]
+—[ASSET_CLASSES: FX, CME futures, crypto, commodities]
+—[TAGGING: Asset, UTC time, rarity (σ), source-type]
+
+1. [FX]
+   • [Intra-hour Patch Clusters] — 07/13/27/41/53 min past the hour, rare >2σ; microstructure “patching,” technical/AI origin.
+   • [10am NY Options Cut] — 15:00 UTC daily; options expiry flows, strike magnet, institutional, frequent but >2.5σ deviations on large expiry days.
+   • [4pm London Fix Volatility] — 16:00 UTC (seasonal DST adj.); benchmark flow, engineered volatility bursts, quick reversals; impact varies with order imbalance, not public until event.
+
+2. [CME Equity & Commodity Futures]
+   • [Stop-Loss Cascade] — Unscheduled, rare >3σ, HFT-driven, often overnight/early cash; flash crash or spike, domino stop triggers, patch reversal.
+   • [End-of-Day Reversal] — 20:00–20:30 UTC, frequent; engineered intraday return reversal, short-cover/risk-off rotation.
+   • [Quarterly Roll Anomaly] — March/June/Sep/Dec roll, periodic; basis spreads, volatility spike, synthetic mispricing.
+
+3. [Crypto]
+   • [Scamwick Stop-Cascade] — Unpredictable, ultra-rare >4σ, thin order book, isolated exchange event; snap spike + mean reversion (“patch”).
+   • [“Bart” Thin-Market Reversal] — 02:00–04:00 UTC, rare >3σ, sharp spike + pause + crash; market maker/AI pattern, low-liquidity induced.
+   • [Cross-Market Volatility Alignment] — Routine/frequent; BTC/ETH volatility clusters mirror legacy markets, especially at US close (20:00 UTC), driven by risk flows.
+
+4. [Oil/Metals]
+   • [Crude Inventory Release Shock] — Wednesdays 14:30 UTC, frequent >2σ; headline knee-jerk, liquidity vacuum, patch mean-reversion.
+   • [Gold Flash Crash/Patch] — Early Asia (01:00–03:00 UTC), rare ~4σ; stop cascade, illiquid hours, “V” recovery, ambiguous cause.
+
+5. [Cross-Asset Echo]
+   • [Crypto vs Equities] — US close (20:00 UTC), moderate; volatility echo, risk rebalancing.
+   • [FX vs Equities] — Risk-off equity moves lead, FX follows after lag; hidden flow cluster, cross-asset rebalancing.
+
+6. [SOURCE TAGGING]
+   • Institutional: option cut, fix, roll, inventory events.
+   • Technical/AI: intra-hour microstructure, scamwicks, Bart reversals, stop cascades.
+   • Cross-asset: volatility echo, risk-off lag.
+   • AI-native/Statistical: flagged where not formally documented, for micro-DR follow-up.
+
+7. [RARITY RATING]
+   • Node-graded by observed σ threshold or routine frequency (rare: >3σ, moderate: event-driven/frequent).
+   • All anomaly windows flagged for real-time alerting, further micro-DR, or synthetic ML model input.
+
+8. [ARCHIVE_STATUS]
+   • Modular cluster array locked for live system or teaching/automation integration.
+   • All edge behaviors, asset/time tagging, and rarity ratings complete.
+   • Gaps flagged for ongoing statistical validation.
+
+[END_APDA_DR8]
+
+
