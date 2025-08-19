@@ -1,0 +1,14 @@
+
+Last 8 weeks preview:
+       week  days  mean_pips  std_pips  var_pips     z_var      regime   trend  w_q4  w_q1  w_q2  w_fade_bias
+2021-11-08     5      13.36  4.239458 17.973000  0.967042   Expanding  rising   1.0   0.4   0.1          0.1
+2021-11-15     5      15.32  5.332167 28.432000  1.937221   Expanding  rising   1.0   0.4   0.1          0.1
+2021-11-22     5      11.42  4.557082 20.767000  0.902117   Expanding falling   1.0   0.4   0.1          0.1
+2021-11-29     5      15.10  2.623928  6.885000 -0.720941     Neutral falling   0.6   0.4   0.2          0.3
+2021-12-06     5      10.14  1.359412  1.848000 -1.331883 Compressing falling   0.3   0.8   0.2          0.6
+2021-12-13     5      12.36  1.484251  2.203000 -1.247829 Compressing  rising   0.3   0.8   0.2          0.6
+2021-12-20     5      11.22  3.988358 15.907000  0.333900     Neutral  rising   0.6   0.4   0.2          0.3
+2021-12-27     4      12.95  3.364025 11.316667 -0.230020     Neutral falling   0.6   0.4   0.2          0.3
+
+Current regime: Neutral | z_var= -0.23 | trend: falling
+Suggested weights → Q4: 0.6  Q1: 0.4  Q2: 0.2  FadeBias: 0.3

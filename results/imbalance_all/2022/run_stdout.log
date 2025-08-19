@@ -1,0 +1,13 @@
+Wrote:
+ - results/imbalance_all/2022/ny_asia_daily.csv
+ - results/imbalance_all/2022/ny_asia_conditional_stats.csv
+
+Preview:
+                   name   n  breakout_rate  fakeout_rate
+               baseline 205       0.726829      0.273171
+      contain_streak>=3  32       0.812500      0.187500
+      resolve_streak>=3   3       0.666667      0.333333
+     contain>=3 & early  28       0.821429      0.178571
+      resolve>=3 & late   0            NaN           NaN
+  contain>=3 & up_sweep  17       0.823529      0.176471
+resolve>=3 & down_sweep   0            NaN           NaN

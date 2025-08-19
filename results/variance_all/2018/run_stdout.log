@@ -1,0 +1,14 @@
+
+Last 8 weeks preview:
+       week  days  mean_pips  std_pips  var_pips     z_var    regime   trend  w_q4  w_q1  w_q2  w_fade_bias
+2018-11-05     5      22.20 29.259357   856.110  3.075379 Expanding  rising   1.0   0.4   0.1          0.1
+2018-11-12     5      14.32  3.819293    14.587 -0.305970   Neutral falling   0.6   0.4   0.2          0.3
+2018-11-19     5      10.12  4.110596    16.897 -0.296445   Neutral  rising   0.6   0.4   0.2          0.3
+2018-11-26     5      10.62  2.393115     5.727 -0.322466   Neutral falling   0.6   0.4   0.2          0.3
+2018-12-03     5      16.92 13.556253   183.772  0.374291   Neutral  rising   0.6   0.4   0.2          0.3
+2018-12-10     5       9.78  2.057183     4.232 -0.392239   Neutral falling   0.6   0.4   0.2          0.3
+2018-12-17     5      12.60  2.152905     4.635 -0.391275   Neutral  rising   0.6   0.4   0.2          0.3
+2018-12-24     5      16.86  2.703331     7.308 -0.379459   Neutral  rising   0.6   0.4   0.2          0.3
+
+Current regime: Neutral | z_var= -0.38 | trend: rising
+Suggested weights → Q4: 0.6  Q1: 0.4  Q2: 0.2  FadeBias: 0.3

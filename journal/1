@@ -1,0 +1,32 @@
+Dataset: 259 trading days in 2024 with valid Asia KZ (19:00–21:00) and London KZ (01:00–04:00).
+Focus: First London sweep of Asia high/low. Outcome = revert inside vs continuation by 04:00.
+
+Key Findings
+
+Baseline: 30% of sweeps revert by London end. Default bias = continuation (70%).
+
+Sweep side: Up sweeps revert more (34.6%) than down sweeps (25.6%).
+
+Day of week: Friday reverts nearly 40%, Tuesday only 22%.
+
+Timing: Sweeps later in London (02:00–04:00) revert ~46% vs early sweeps (01:00–02:00) only ~27%.
+
+Range interaction: Down sweeps with wide Asia ranges are weakest (23% revert). Up sweeps with wide ranges show more trap-like behavior (~37%).
+
+Interpretation
+
+The “switch” is real: outcomes flip not randomly, but with time-of-sweep and context.
+
+Safer fade conditions: Late-London, up sweeps, especially on Fridays.
+
+Dangerous fades: Early-London, down sweeps, especially Tuesdays.
+
+Asia range size alone isn’t decisive, but in combination with side + timing, it modifies odds.
+
+Next Steps
+
+Fit a simple classifier (logistic regression or decision tree) to quantify how much each factor contributes.
+
+Integrate best conditions into backtester as filters (e.g., fade only if sweep = up, phase = late, DOW = Thu/Fri).
+
+Track expectancy shift from 30% baseline to filtered >60% probability.

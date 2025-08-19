@@ -1,0 +1,11 @@
+trading_day_id,dow,hour,side,asia_quartile,contain_streak,resolve_streak,asia_contains_prev_ny,asia_resolves_prev_ny,asia_range_pct_20d,ny_range_pct_20d,compression_flag,imbalance_score
+2024-04-24,Wednesday,1,up_sweep,Q2,3.0,0.0,True,False,30.0,10.0,True,-0.0699300699301378
+2024-05-22,Wednesday,1,down_sweep,Q1,3.0,0.0,True,False,0.0,35.0,True,-0.22711864406785376
+2024-06-12,Wednesday,1,down_sweep,Q1,3.0,0.0,True,False,20.0,100.0,True,-0.4229432213209695
+2024-06-26,Wednesday,1,up_sweep,Q1,3.0,0.0,True,False,30.0,45.0,False,-0.3691275167785595
+2024-08-14,Wednesday,1,down_sweep,Q1,3.0,0.0,True,False,5.0,75.0,True,-0.1221198156681839
+2024-08-28,Wednesday,1,up_sweep,Q3,3.0,0.0,True,False,80.0,35.0,False,-0.16207951070334503
+2024-10-02,Wednesday,1,down_sweep,Q3,3.0,0.0,True,False,75.0,35.0,False,-0.1419939577039218
+2024-10-09,Wednesday,1,down_sweep,Q1,3.0,0.0,True,False,0.0,25.0,True,-0.11016949152539662
+2024-10-16,Wednesday,1,down_sweep,Q2,3.0,0.0,True,False,45.0,65.0,False,-0.0646551724137863
+2024-12-04,Wednesday,1,up_sweep,Q2,3.0,0.0,True,False,10.0,90.0,True,-0.3924581005586655

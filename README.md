@@ -1,1 +1,0 @@
-# Strategy-tester-v2

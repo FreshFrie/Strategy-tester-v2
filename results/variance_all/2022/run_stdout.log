@@ -1,0 +1,14 @@
+
+Last 8 weeks preview:
+       week  days  mean_pips  std_pips  var_pips     z_var  regime   trend  w_q4  w_q1  w_q2  w_fade_bias
+2022-11-07     5     23.500  7.698052 59.260000 -0.328877 Neutral  rising   0.6   0.4   0.2          0.3
+2022-11-14     5     24.180  7.006925 49.097000 -0.342991 Neutral falling   0.6   0.4   0.2          0.3
+2022-11-21     5     25.720  9.857840 97.177000 -0.294770 Neutral  rising   0.6   0.4   0.2          0.3
+2022-11-28     5     28.660  5.251952 27.583000 -0.356315 Neutral falling   0.6   0.4   0.2          0.3
+2022-12-05     5     22.820  6.469699 41.857000 -0.342125 Neutral  rising   0.6   0.4   0.2          0.3
+2022-12-12     5     17.620  5.695788 32.442000 -0.462487 Neutral falling   0.6   0.4   0.2          0.3
+2022-12-19     5     21.000  9.707471 94.235000  0.159988 Neutral  rising   0.6   0.4   0.2          0.3
+2022-12-26     4     15.925  3.201432 10.249167 -0.648264 Neutral falling   0.6   0.4   0.2          0.3
+
+Current regime: Neutral | z_var= -0.65 | trend: falling
+Suggested weights → Q4: 0.6  Q1: 0.4  Q2: 0.2  FadeBias: 0.3

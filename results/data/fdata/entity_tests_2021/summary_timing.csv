@@ -1,0 +1,3 @@
+timing_bin,n_events,gate3_pass_rate,follow_20p_rate,avg_mfe_frac_range
+early_<=02,200,0.195,0.06,0.8516893396410097
+late_>02,7,0.5714285714285714,0.0,0.5259848675697407

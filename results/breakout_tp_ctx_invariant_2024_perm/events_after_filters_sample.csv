@@ -1,0 +1,2 @@
+trading_day_id,dow,hour,side,asia_quartile,contain_streak,resolve_streak,asia_contains_prev_ny,asia_resolves_prev_ny,asia_range_pct_20d,ny_range_pct_20d,compression_flag,imbalance_score
+2024-12-30,Monday,3,up_sweep,Q4,1.0,0.0,True,False,65.0,85.0,False,-0.3727272727272831
