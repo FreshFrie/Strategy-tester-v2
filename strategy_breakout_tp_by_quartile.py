@@ -419,7 +419,7 @@ def backtest(events_path: str, ohlcv_path: str, out_dir: str,
                          (-1.0 if exit_reason == "SL" else (entry_price - exit_price) / sl_dist)
             mfe_R = max((entry_price - fwd["low"].min()), 0.0) / sl_dist
 
-    trades.append({
+        trades.append({
             "trading_day_id": r["trading_day_id"],
             "dow": r["dow"],
             "side": side,
@@ -447,7 +447,7 @@ def backtest(events_path: str, ohlcv_path: str, out_dir: str,
             "compression_flag": r.get("compression_flag"),
             "imbalance_score": r.get("imbalance_score"),
         })
-    funnel["taken"] += 1
+        funnel["taken"] += 1
 
     trades_df = pd.DataFrame(trades)
     trades_path = os.path.join(out_dir, "strategy_breakout_results.csv")
