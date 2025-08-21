@@ -1,4 +1,0 @@
-timing_bin,n_events,gate3_pass_rate,follow_20p_rate,avg_mfe_frac_range
-early_<=02,195,0.2205128205128205,0.09743589743589744,0.7656440714203397
-late_>02,8,0.25,0.375,0.6969349584353217
-nan,4,0.0,0.0,

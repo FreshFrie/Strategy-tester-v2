@@ -1,4 +1,0 @@
-name,n,contain_rate,resolve_rate
-baseline,206,0.6553398058252428,0.34466019417475724
-center_streak>=3,3,1.0,0.0
-edge_streak>=3,58,0.5862068965517241,0.4137931034482759

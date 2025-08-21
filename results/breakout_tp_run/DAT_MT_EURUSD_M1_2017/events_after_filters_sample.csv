@@ -1,0 +1,17 @@
+trading_day_id,dow,hour,side,asia_quartile,contain_streak,resolve_streak,asia_contains_prev_ny,asia_resolves_prev_ny
+2017-02-01,Thursday,1,up_sweep,Q4,3.0,0.0,True,False
+2017-02-08,Thursday,1,down_sweep,Q3,3.0,0.0,True,False
+2017-03-09,Friday,1,up_sweep,Q3,3.0,0.0,True,False
+2017-04-13,Friday,1,up_sweep,Q1,4.0,0.0,True,False
+2017-04-19,Thursday,1,up_sweep,Q1,3.0,0.0,True,False
+2017-05-11,Friday,1,up_sweep,Q1,4.0,0.0,True,False
+2017-06-01,Friday,1,up_sweep,Q1,3.0,0.0,True,False
+2017-07-12,Thursday,1,up_sweep,Q3,3.0,0.0,True,False
+2017-07-13,Friday,1,up_sweep,Q3,4.0,0.0,True,False
+2017-08-02,Thursday,1,up_sweep,Q4,3.0,0.0,True,False
+2017-08-23,Thursday,1,down_sweep,Q1,3.0,0.0,True,False
+2017-09-07,Friday,1,up_sweep,Q4,4.0,0.0,True,False
+2017-09-21,Friday,1,up_sweep,Q1,4.0,0.0,True,False
+2017-09-27,Thursday,1,down_sweep,Q3,3.0,0.0,True,False
+2017-11-01,Thursday,1,up_sweep,Q4,3.0,0.0,True,False
+2017-11-02,Friday,1,up_sweep,Q1,4.0,0.0,True,False

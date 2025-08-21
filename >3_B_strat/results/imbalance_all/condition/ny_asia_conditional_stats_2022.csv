@@ -1,0 +1,8 @@
+name,n,breakout_rate,fakeout_rate
+baseline,205,0.7268292682926829,0.2731707317073171
+contain_streak>=3,32,0.8125,0.1875
+resolve_streak>=3,3,0.6666666666666666,0.33333333333333337
+contain>=3 & early,28,0.8214285714285714,0.1785714285714286
+resolve>=3 & late,0,,
+contain>=3 & up_sweep,17,0.8235294117647058,0.17647058823529416
+resolve>=3 & down_sweep,0,,

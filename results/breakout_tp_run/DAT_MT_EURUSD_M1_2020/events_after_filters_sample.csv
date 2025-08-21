@@ -1,0 +1,16 @@
+trading_day_id,dow,hour,side,asia_quartile,contain_streak,resolve_streak,asia_contains_prev_ny,asia_resolves_prev_ny
+2020-01-09,Friday,1,up_sweep,Q1,4.0,0.0,True,False
+2020-01-15,Thursday,1,down_sweep,Q1,3.0,0.0,True,False
+2020-01-16,Friday,1,up_sweep,Q1,4.0,0.0,True,False
+2020-02-05,Thursday,1,up_sweep,Q1,3.0,0.0,True,False
+2020-02-06,Friday,1,down_sweep,Q1,4.0,0.0,True,False
+2020-02-12,Thursday,1,down_sweep,Q1,3.0,0.0,True,False
+2020-03-04,Thursday,1,down_sweep,Q1,3.0,0.0,True,False
+2020-03-12,Friday,1,up_sweep,Q4,3.0,0.0,True,False
+2020-04-22,Thursday,1,up_sweep,Q3,3.0,0.0,True,False
+2020-05-06,Thursday,1,down_sweep,Q1,3.0,0.0,True,False
+2020-06-10,Thursday,1,down_sweep,Q4,3.0,0.0,True,False
+2020-07-01,Thursday,1,up_sweep,Q1,3.0,0.0,True,False
+2020-07-02,Friday,1,down_sweep,Q1,4.0,0.0,True,False
+2020-07-29,Thursday,1,down_sweep,Q3,3.0,0.0,True,False
+2020-09-02,Thursday,1,down_sweep,Q4,3.0,0.0,True,False
